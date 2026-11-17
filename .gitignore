@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+node_modules/
+*.egg-info/
+.env
+*.db
+*.sqlite
+rclone.conf
+*.mov
+*.mp4
+*.m4v
+thumbs/
+holding/
+out/
